@@ -1,0 +1,17 @@
+.select2-container--bootstrap .select2-results__group {
+    color: #5c9acf !important;
+
+}
+
+.relative{
+    position: relative !important;
+}
+.label-des{
+    width: 224px;
+}
+.lang-list2{
+    position: absolute;
+    top: 16px;
+    right: 41px;
+    width: 66px;
+}
